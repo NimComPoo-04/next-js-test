@@ -1,0 +1,9 @@
+.light {
+	background: #5e81ac;
+}
+
+nav div.container {
+	display: flex;
+	width: 75%;
+	margin: auto;
+}
